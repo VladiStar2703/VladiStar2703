@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladiStar2703
 - 👀 I’m interested in Computer Programming , Data Science and Networking
-- 🌱 I’m currently a B.Sc Student 3rd year 
+- 🌱 I’m currently in the 4th year 
 - 💞️ I’m looking to collaborate on C#,C++,Java,Web projects
 - 📫 How to reach me - vladist2703@gmail.com
 
